@@ -133,7 +133,7 @@ $color-valid: #5cb85c;
   }
 
   .flip-tab.prompt{
-    background: $color-valid url('../images/card-valid-anim.gif') no-repeat;
+    background: $color-valid url('../images/card-flip-arrow.png') no-repeat;
     background-size: 2.3em 2.3em;
     &.front{
       background-position: 10.05em 0.6em;
